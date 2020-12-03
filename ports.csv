@@ -1,0 +1,8 @@
+APP,IPADDRESS,PORT,COMMENTS
+mysql,192.168.99.100,3306,docker
+organizer-app-data-service-ms,localhost,3000,
+organizer-app-ui,localhost,4200,
+organizer-app-config-server,localhost,,
+organizer-app-api-gateway,,,
+organizer-app-eureka-naming-server,,,
+organizer-app-zipkin-server,,,
